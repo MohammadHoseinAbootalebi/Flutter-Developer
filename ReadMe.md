@@ -1,3 +1,3 @@
 # **🌐 Language 🌐** 
 
-- :GB: English
+- :yum: English
