@@ -12,10 +12,10 @@
 
 <table>
   <tr>
-    <td rowspan="4"><img src="Assets/Logos/Profile.jpg" alt="Profile" width="130px" style="border-radius: 100%"></td>
-    <td rowspan="4"></td>
-    <td rowspan="4"></td>
-    <td rowspan="4"></td>
+    <td rowspan="4" style="border: 1px solid transparent"><img src="Assets/Logos/Profile.jpg" alt="Profile" width="130px" style="border-radius: 100%"></td>
+    <td rowspan="4" style="border: 1px solid transparent"></td>
+    <td rowspan="4" style="border: 1px solid transparent"></td>
+    <td rowspan="4" style="border: 1px solid transparent"></td>
     <td style="border: 1px solid transparent"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></td>
     <td><a href="https://github.com/MohammadHoseinAbootalebi">Github</a></td>
   </tr>
