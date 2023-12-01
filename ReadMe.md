@@ -13,22 +13,19 @@
 <table>
   <tr style="border: 1px solid white">
     <td rowspan="4"><img src="Assets/Logos/Profile.jpg" alt="Profile" width="130px" style="border-radius: 100%"></td>
-    <td rowspan="4"></td>
-    <td rowspan="4"></td>
-    <td rowspan="4"></td>
     <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
     <td><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
   </tr>
   <tr style="border: 1px solid white">
-    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
-    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
+    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Instagram_logo.png" alt="Profile" width="30px"></a></td>
+    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Instagram_Name.png"  width="70px"></a></td>
   </tr>
   <tr style="border: 1px solid white">
-    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
-    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
+    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/LinkedIn_Logo.png" alt="Profile" width="30px"></a></td>
+    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/LinkedIn_Name.png"  width="70px"></a></td>
   </tr>
   <tr style="border: 1px solid white">
-    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
-    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
+    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Gmail_Name_Logo.png" alt="Profile" width="30px"></a></td>
+    <td style="border: 1px solid white"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Gmail_Name_name.png"  width="70px"></a></td>
   </tr>
 </table>
