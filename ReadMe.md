@@ -11,21 +11,24 @@
 </br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 <table>
-  <tr>
-    <td rowspan="4" style="border: 1px solid transparent"><img src="Assets/Logos/Profile.jpg" alt="Profile" width="130px" style="border-radius: 100%"></td>
-    <td rowspan="4" style="border: 1px solid transparent"></td>
-    <td rowspan="4" style="border: 1px solid transparent"></td>
-    <td rowspan="4" style="border: 1px solid transparent"></td>
-    <td style="border: 1px solid transparent"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></td>
-    <td><a href="https://github.com/MohammadHoseinAbootalebi">Github</a></td>
+  <tr style="border: 1px solid transparent">
+    <td rowspan="4"><img src="Assets/Logos/Profile.jpg" alt="Profile" width="130px" style="border-radius: 100%"></td>
+    <td rowspan="4"></td>
+    <td rowspan="4"></td>
+    <td rowspan="4"></td>
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
+    <td><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
   </tr>
-  <tr>
-    <td>Cell 4</td>
+  <tr style="border: 1px solid transparent">
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
   </tr>
-  <tr>
-    <td>Cell 6</td>
+  <tr style="border: 1px solid transparent">
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
   </tr>
-  <tr>
-    <td>Cell 8</td>
+  <tr style="border: 1px solid transparent">
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/Github_Cat_Logo.png" alt="Profile" width="30px" style="border-radius: 100%"></a></td>
+    <td style="border: 1px solid transparent"><a href="https://github.com/MohammadHoseinAbootalebi"><img src="Assets/Illustrations/GitHub_Logo.png"  width="70px"></a></td>
   </tr>
 </table>
