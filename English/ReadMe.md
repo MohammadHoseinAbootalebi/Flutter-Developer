@@ -3,6 +3,7 @@
 In the following, the list of all my created Flutter projects is coming:
 
 <table style="width: 75%">
+    <!-- Hi Flutter Application -->
     <tr>
         <td>App Name: <b>Hi Flutter</b></td>
         <td rowspan="7"><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/English/Hi%20Flutter"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></a></td>
@@ -26,6 +27,7 @@ In the following, the list of all my created Flutter projects is coming:
         <td><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/English/Hi%20Flutter"><b>See More</b></a></td>
     </tr>
     <td></br></td>
+    <!-- Next Application, the setups should change -->
     <tr>
         <td>App Name: <b>Hi Flutter</b></td>
         <td rowspan="7"><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/English/Hi%20Flutter"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></a></td>
