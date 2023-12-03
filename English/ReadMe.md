@@ -22,7 +22,7 @@ In the following, the list of all my created Flutter projects is coming:
     <tr>
         <td>Used Tools: <img src="../Assets/Softwares Logos/Adobe_XD_Logo.png" alt="Adobe XD Logo" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Adobe_Illustrator_Logo.png" alt="Illustrator" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Adobe_Photoshop_Logo.png" alt="Photoshop" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Dart_Logo.png" alt="Dart Logo" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Flutter_Logo.png" alt="Flutter Logo" height="3%" width="3%"></td>
     </tr>
-    <td></td>
+    <td></br></td>
     <tr>
         <td>App Name: <b>Hi Flutter</b></td>
         <td rowspan="6"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></td>
