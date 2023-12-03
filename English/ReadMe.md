@@ -17,6 +17,6 @@ In the following, the list of all my created Flutter projects is coming:
         <td>Description: <b>This is the Hello World application that every beginner programs in each language. But it is done perfectly in terms of used components in this application. It uses the most used Flutter widgets like Stack, Column, Row, etc.</b></td>
     </tr>
     <tr>
-        <td>Used Tools: <img src="../Assets/Softwares Logos/Adobe_XD_Logo.png" alt="Hi Flutter" height="5%" width="5%"> </td>
+        <td>Used Tools: <img src="../Assets/Softwares Logos/Adobe_XD_Logo.png" alt="Hi Flutter" height="2%" width="2%"> </td>
     </tr>
 </table>
