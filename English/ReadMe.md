@@ -1,9 +1,11 @@
 # 📑 <span>**Table of Projects**</span> 📑
 
-<table>
+In the following, the list of all my created Flutter projects is coming:
+
+<table style="width: 5%">
     <tr>
         <td>Title: <b>Hi Flutter</b></td>
-        <td rowspan="3">Cell 2</td>
+        <td rowspan="3"><img src="Assets/Hi Flutter/Logo.png" alt="Hi Flutter"></td>
     </tr>
     <tr>
         <td>Cell 3</td>
