@@ -5,7 +5,10 @@ In the following, the list of all my created Flutter projects is coming:
 <table style="width: 75%">
     <tr>
         <td>App Name: <b>Hi Flutter</b></td>
-        <td rowspan="5"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></td>
+        <td rowspan="6"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></td>
+    </tr>
+    <tr>
+        <td>Index: <b>1</b></td>
     </tr>
     <tr>
         <td>Level: <b>Beginner</b></td>
@@ -22,7 +25,10 @@ In the following, the list of all my created Flutter projects is coming:
     <td></td>
     <tr>
         <td>App Name: <b>Hi Flutter</b></td>
-        <td rowspan="5"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></td>
+        <td rowspan="6"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></td>
+    </tr>
+    <tr>
+        <td>Index: <b>2</b></td>
     </tr>
     <tr>
         <td>Level: <b>Beginner</b></td>
