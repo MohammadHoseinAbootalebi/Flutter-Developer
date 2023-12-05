@@ -14,7 +14,7 @@ This application is the simplest and the first application that each programmer 
     2. <a href="#back_end">Back-end</a>
 
 ## **<p id="Designing Part"><b>1. Designing Part</b></p>**
-In this section, I present the design process that takes for the "Hi Flutter" to be born.
+In this section, I present the design process that takes for the "Hi Flutter" to be born. <br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
 ### **<p id="wireframing"><b>1.1 Wireframing</b></p>**
@@ -39,13 +39,13 @@ The total design at one glance is like the picture below. This design was done i
 
 Each designed screen is coming:
 
-- First application screen [**Welcome Screen**]:<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen.png" width="100%" height="100%">
+- First application screen [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen.png" width="100%" height="100%">
 
-- Second application screen [**Dialog Screen**]:<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen.png" width="100%" height="100%">
+- Second application screen [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen.png" width="100%" height="100%">
 
-- First application screen landscape view [**Welcome Screen**]:<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen - Landscape.png" width="100%" height="100%">
+- First application screen landscape view [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen - Landscape.png" width="100%" height="100%">
 
-- Second application screen landscape view [**Dialog Screen**]:<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
+- Second application screen landscape view [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
 
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
