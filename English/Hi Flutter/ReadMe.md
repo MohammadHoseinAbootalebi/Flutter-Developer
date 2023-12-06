@@ -4,20 +4,35 @@ This application is the simplest and the first application that each programmer 
 
 # <h2 id="Table_Of_Contents">**Table of Contents**</h2>
 
-1. <a href="#Designing Part">Designing Part</a>
+1. <a href="#Application Properties">Application Properties</a>
+2. <a href="#Designing Part">Designing Part</a>
     1. <a href="#wireframing">Wireframing</a> 
     2. <a href="#Designing">Designing</a>
     3. <a href="#Prototyping">Prototyping</a>
     4. <a href="#Mockups">Mockups</a>
-2. <a href="#Programming Part">Programming Part</a>
+3. <a href="#Programming Part">Programming Part</a>
     1. <a href="#front_end">Front-end</a>
     2. <a href="#back_end">Back-end</a>
 
-## **<p id="Designing Part"><b>1. Designing Part</b></p>**
+---
+
+## **<p id="Application Properties"><b>1. Application Properties</b></p>**
+Application properties are as follows: <br>
+
+- Name: **Hi Flutter**
+- Time to Complete: **3 hours**
+- Date of Finishing Application: **23rd November 2023**
+- Level: **Bignner**
+
+<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+
+---
+
+## **<p id="Designing Part"><b>2. Designing Part</b></p>**
 In this section, I present the design process that takes for the "Hi Flutter" to be born. <br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
-### **<p id="wireframing"><b>1.1 Wireframing</b></p>**
+### **<p id="wireframing"><b>2.1 Wireframing</b></p>**
 In this part, I present the wireframe or low-level "Hi Flutter" design.<br>
 
 In the following image, the base wireframe of the application is presented:<br><br>
@@ -30,7 +45,7 @@ As it is seen, the application contains two main screens:
 
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
-### **<p id="Designing"><b>1.2 Designing</b></p>**
+### **<p id="Designing"><b>2.2 Designing</b></p>**
 In this part, the final design of the "Hi Flutter" application is presented:<br>
 
 The total design at one glance is like the picture below. This design was done in the Adobe XD software.<br><br>
@@ -49,22 +64,50 @@ Each designed screen is coming:
 
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
-### **<p id="Prototyping"><b>1.3 Prototyping</b></p>**
-In this part, I present the prototype or high-level "Hi Flutter" design.<br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+### **<p id="Prototyping"><b>2.3 Prototyping</b></p>**
+In this part, I present the prototype or high-level "Hi Flutter" design.
 
-### **<p id="Mockups"><b>1.4 Mockups</b></p>**
-In this part, I present the final results in terms of Mockups.<br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+As the functionality of this application is very simple, for its prototype, in the first application screen that is the welcome screen - whether in the portrait or landscape view - the dialog box will be shown as follows:
 
-## **<p id="Programming Part"><b>2. Programming Part</b></p>**
+- Prototype of first screen [**Welcome Screen In Portrait View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button.png" width="100%" height="100%">
+
+- Prototype of first screen [**Welcome Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button Landscape.png" width="100%" height="100%">
+
+- Prototype of second screen [**Dialog Box Screen In Portrait View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box portrait.png" width="100%" height="100%">
+
+- Prototype of second screen [**Dialog Box Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box landscape.png" width="100%" height="100%">
+
+<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+
+### **<p id="Mockups"><b>2.4 Mockups</b></p>**
+In this part, I present the final results in terms of Mockups.<br><br>
+
+<img src="../../Assets/Hi Flutter/Presentations/Mockups/Single Mockup - First Screen.png" width="100%" height="100%">
+
+<br>
+
+<img src="../../Assets/Hi Flutter/Presentations/Mockups/Single Mockup - Second Screen.png" width="100%" height="100%">
+
+<br>
+
+<video width="100%" height="100%" controls>
+  <source src="../../Assets/Hi Flutter/Presentations/Mockups/Portrait Hi Flutter.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+
+## **<p id="Programming Part"><b>3. Programming Part</b></p>**
 In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
-### **<p id="front_end"><b>2.1 Front-end</b></p>**
-In this part, I present what things are there in the front for user interaction.<br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+### **<p id="front_end"><b>3.1 Front-end</b></p>**
+In this part, I present what things are there in the front for user interaction.
 
-### **<p id="back_end"><b>2.2 Back-end</b></p>**
+
+
+<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+
+### **<p id="back_end"><b>3.2 Back-end</b></p>**
 In this part, I present what things are there in the back for functionality to work.<br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
