@@ -4,19 +4,19 @@ This application is the simplest and the first application that each programmer 
 
 # <h2 id="Table_Of_Contents">**Table of Contents**</h2>
 
-1. <a href="#Application Properties">Application Properties</a>
-2. <a href="#Designing Part">Designing Part</a>
+1. <a href="#Application_Properties">Application Properties</a>
+2. <a href="#Designing_Part">Designing Part</a>
     1. <a href="#wireframing">Wireframing</a> 
     2. <a href="#Designing">Designing</a>
     3. <a href="#Prototyping">Prototyping</a>
     4. <a href="#Mockups">Mockups</a>
-3. <a href="#Programming Part">Programming Part</a>
+3. <a href="#Programming_Part">Programming Part</a>
     1. <a href="#front_end">Front-end</a>
     2. <a href="#back_end">Back-end</a>
 
 ---
 
-## **<p id="Application Properties"><b>1. Application Properties</b></p>**
+## **<p id="Application_Properties"><b>1. Application Properties</b></p>**
 Application properties are as follows: <br>
 
 - Name: **Hi Flutter**
@@ -28,7 +28,7 @@ Application properties are as follows: <br>
 
 ---
 
-## **<p id="Designing Part"><b>2. Designing Part</b></p>**
+## **<p id="Designing_Part"><b>2. Designing Part</b></p>**
 In this section, I present the design process that takes for the "Hi Flutter" to be born. <br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
@@ -97,7 +97,7 @@ In this part, I present the final results in terms of Mockups.<br><br>
 
 <br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
-## **<p id="Programming Part"><b>3. Programming Part</b></p>**
+## **<p id="Programming_Part"><b>3. Programming Part</b></p>**
 In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
