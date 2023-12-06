@@ -92,7 +92,6 @@ In this part, I present the final results in terms of Mockups.<br><br>
 
 <video width="100%" height="100%" controls>
   <source src="../../Assets/Hi Flutter/Presentations/Mockups/Portrait Hi Flutter.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 <br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
