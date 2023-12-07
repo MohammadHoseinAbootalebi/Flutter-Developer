@@ -13,6 +13,7 @@ This application is the simplest and the first application that each programmer 
 3. <a href="#Programming_Part">Programming Part</a>
     1. <a href="#front_end">Front-end</a>
     2. <a href="#back_end">Back-end</a>
+    3. <a href="#review_functionality">Review Functionality</a>
 
 ---
 
@@ -98,17 +99,78 @@ https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e
 
 <br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
+---
+
 ## **<p id="Programming_Part"><b>3. Programming Part</b></p>**
 In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
 ### **<p id="front_end"><b>3.1 Front-end</b></p>**
-In this part, I present what things are there in the front for user interaction.
+In this part, I present what things are there in the front for user interaction.<br>
 
+- First Screen [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_First_Screen.png" width="100%" height="100%"><br><br>
 
+- Second Screen [**Dialog Box Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_second_Screen.png" width="100%" height="100%">
+
+<br>As shown, the application is programmed as designed, with its pictures being displayed in the previous sections.
 
 <br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
 ### **<p id="back_end"><b>3.2 Back-end</b></p>**
 In this part, I present what things are there in the back for functionality to work.<br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+
+I will show what widgets are used in the background. The full details could be neglected because it makes reading this documentation boring.<br><br>
+
+- **Flutter Picture** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>As it is seen, the entire widgets are in a single "**Stack**" widget as this UI is somehow a complex one. And all of them raped around with a "**SingleChildScrollView**" widget for where it is needed it could be scrollable. Anyway, this Flutter picture logo is just an image widget that I designed previously in Ai.</p>
+
+<br><br>
+
+- **Dash Picture** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Dash Picture.png" width="100%" height="100%"><br><br><p>This is an image widget too like the previous one that is positioned in the Stack widget.</p>
+
+<br><br>
+
+- **Bellow Dash Image Text Box** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Start Big Journey Text.png" width="100%" height="100%"><br><br><p>This is just a text box containing the "Start your big journey" text.</p>
+
+<br><br>
+
+- **Call to Action Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Call Dash Button.png" width="100%" height="100%"><br><br><p>This is a "**Text Button**" widget that when it is pressed, it shows a dialog box or call "**showDialog**" method used commonly in Flutter.</p>
+
+<br><br>
+
+- **Dialog Box Title** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/I recieved your Call.png" width="100%" height="100%"><br><br><p>After pressing the "**Call Dash**" button, a dialog box like this appears. It contains three different widgets. Its first one is a text box widget containing "**I received your Call!**" text.</p>
+
+<br><br>
+
+- **Dialog Box Content** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/dialog text content.png" width="100%" height="100%"><br><br><p>This is a text box too that is used as a placeholder to show some content in the dialog box.</p>
+
+<br><br>
+
+- **Dialog Box Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>And in the below of the dialog box content, a button is used. After pressing, the dialog box will disappear and the first screen or welcome screen will show again.</p>
+
+<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+
+<br>
+
+### **<p id="review_functionality"><b>3.3 Review Functionality</b></p>**
+
+To review the functionality of the application overall again, let's see the following video:<br><br>
+
+<video width="100%" height="100%" controls>
+  <source src="../../Assets/Hi Flutter/Presentations/Final Videos/Galaxy S Ultra - Landscape.mp4" type="video/mp4">
+</video><br><br>
+
+https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/56efc17f-70f0-4fcc-9bcb-30bce6caa61c
+
+<video width="100%" height="100%" controls>
+  <source src="../../Assets/Hi Flutter/Presentations/Final Videos/S Ultra - Landscape - not Portrait.mp4" type="video/mp4">
+</video><br><br>
+
+https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/6786c4c6-a265-4a7c-997e-ff46333fce83
+
+<video width="100%" height="100%" controls>
+  <source src="../../Assets/Hi Flutter/Presentations/Final Videos/Note 10 Lite - Both View.mp4" type="video/mp4">
+</video><br>
+
+https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/22fc8944-4509-406f-835f-ec647ce56bc5
+
+<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
