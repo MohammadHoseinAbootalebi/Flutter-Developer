@@ -10,7 +10,7 @@ This application is the simplest and the first application that each programmer 
     2. <a href="#designing_section">Designing</a>
     3. <a href="#prototyping_section">Prototyping</a>
     4. <a href="#mockups_section">Mockups</a>
-3. <a href="#Programming_part">Programming Part</a>
+3. <a href="#programming_part">Programming Part</a>
     1. <a href="#front_end">Front-end</a>
     2. <a href="#back_end">Back-end</a>
     3. <a href="#review_functionality">Review Functionality</a>
@@ -95,7 +95,7 @@ https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e
 
 <br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
-## **<p id="Programming_part"><b>3. Programming Part</b></p>**
+## **<p id="programming_part"><b>3. Programming Part</b></p>**
 In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
 
