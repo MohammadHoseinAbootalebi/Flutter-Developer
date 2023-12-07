@@ -15,8 +15,6 @@ This application is the simplest and the first application that each programmer 
     2. <a href="#back_end">Back-end</a>
     3. <a href="#review_functionality">Review Functionality</a>
 
----
-
 ## **<p id="application_Properties"><b>1. Application Properties</b></p>**
 Application properties are as follows: <br>
 
@@ -26,8 +24,6 @@ Application properties are as follows: <br>
 - Level: **Bignner**
 
 <a href="#Table_Of_Contents">[↑ Back ↑]</a>
-
----
 
 ## **<p id="designing_Part"><b>2. Designing Part</b></p>**
 In this section, I present the design process that takes for the "Hi Flutter" to be born. <br>
@@ -98,8 +94,6 @@ In this part, I present the final results in terms of Mockups.<br><br>
 https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e95f545a-39a5-4f3b-8422-c938c9ea8c9c
 
 <br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
-
----
 
 ## **<p id="Programming_Part"><b>3. Programming Part</b></p>**
 In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
