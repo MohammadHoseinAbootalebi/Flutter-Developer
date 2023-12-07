@@ -4,7 +4,7 @@ This application is the simplest and the first application that each programmer 
 
 # <h2 id="Table_Of_Contents">**Table of Contents**</h2>
 
-1. <a href="#application_Properties">Application Properties</a>
+1. <a href="#application_properties">Application Properties</a>
 2. <a href="#designing_Part">Designing Part</a>
     1. <a href="#wireframing_section">Wireframing</a> 
     2. <a href="#designing_section">Designing</a>
@@ -15,7 +15,7 @@ This application is the simplest and the first application that each programmer 
     2. <a href="#back_end">Back-end</a>
     3. <a href="#review_functionality">Review Functionality</a>
 
-## **<p id="application_Properties"><b>1. Application Properties</b></p>**
+## **<p id="application_properties"><b>1. Application Properties</b></p>**
 Application properties are as follows: <br>
 
 - Name: **Hi Flutter**
