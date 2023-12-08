@@ -1,83 +1,86 @@
 # <span style="color:orange"><b>Hi Flutter</b></span>
 
-This application is the simplest and the first application that each programmer or developer programs, when he/she enters the new programming language world. So, in this application, I said the flutter Hi ;)
+این اپلیکیشن ساده ترین و اولین اپلیکیشنی هست که هر توسعه دهنده در هنگام ورود به یک دنیای جدید برنامه نویسی، آن را می نویسد. پس منم با ورود به دنیای فلاتر، بهش سلام کردم   ؛)
 
-# <h2 id="Table_Of_Contents">**Table of Contents**</h2>
+# <h2 id="Table_Of_Contents">**فهرست مطالب**</h2>
 
-1. <a href="#application_properties">Application Properties</a>
-2. <a href="#designing_part">Designing Part</a>
-    1. <a href="#wireframing_section">Wireframing</a> 
-    2. <a href="#designing_section">Designing</a>
-    3. <a href="#prototyping_section">Prototyping</a>
-    4. <a href="#mockups_section">Mockups</a>
-3. <a href="#programming_part">Programming Part</a>
-    1. <a href="#front_end">Front-end</a>
-    2. <a href="#back_end">Back-end</a>
-    3. <a href="#review_functionality">Review Functionality</a>
+1. <a href="#application_properties">مشخصات اپلیکیشن</a>
+2. <a href="#designing_part">قسمت طراحی</a>
+    1. <a href="#wireframing_section">وایرفریمینگ</a> 
+    2. <a href="#designing_section">طراحی کردن</a>
+    3. <a href="#prototyping_section">پروتو تایپینگ</a>
+    4. <a href="#mockups_section">ماکاپ ها</a>
+3. <a href="#programming_part">قسمت برنامه نویسی</a>
+    1. <a href="#front_end">فرانت - اند</a>
+    2. <a href="#back_end">بک - اند</a>
+    3. <a href="#review_functionality">مرور عملکرد</a>
 
-## **<p id="application_properties"><b>1. Application Properties</b></p>**
-Application properties are as follows: <br>
+<br><br><br>
 
-- Name: **Hi Flutter**
-- Time to Complete: **3 hours**
-- Date of Finishing Application: **23rd November 2023**
-- Level: **Bignner**
+## **<p id="application_properties"><b>1. مشخصات اپلیکیشن</b></p>**
+مشخصات اپلیکیشن به شرح زیر است: <br>
 
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+- نام: **Hi Flutter**
+- زمان کامل شدن: **3 ساعت**
+- زمان اتمام اپلیکیشن: **2 آذر 1402**
+- سطح: **مبتدی**
 
-## **<p id="designing_part"><b>2. Designing Part</b></p>**
-In this section, I present the design process that takes for the "Hi Flutter" to be born. <br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br>
 
-### **<p id="wireframing_section"><b>2.1 Wireframing</b></p>**
-In this part, I present the wireframe or low-level "Hi Flutter" design.<br>
+## **<p id="designing_part"><b>2. قسمت طراحی</b></p>**
+در این قسمت، من روند طراحی ای که برای به دنیا اومدن "های فلاتر" صورت گرفته را ارائه می کنم.
+<br>
+<a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-In the following image, the base wireframe of the application is presented:<br><br>
+### **<p id="wireframing_section"><b>2.1 وایر فریمینگ</b></p>**
+در این قسمت من وایر فریم یا طراحی سطح پایین طراحیِ "های فلاتر" را ارائه می کنم.<br>
+
+در تصویر زیر، پایه ی وایر فریم اپلیکیشن ارائه می شود:<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Wireframing.png" width="100%" height="100%"><br>
 
-As it is seen, the application contains two main screens:
-- The left screen is the first screen that contains an image of the flutter logo in the background and an image of the dash in the front. There is also a text box at the bottom and a CTA button below the text box. The button is designed to go to the right screen when the user taps it.</br></br>
-- The right screen is the next screen that appears when the user taps the “Call Dash” button. A dialog box is shown with an “OK” button to close it and a text box to present some text in the dialog.
+همون طور که مشاهده میشه، اپلیکیشن در کل دو صفحه ی اصلی داره:
+- صفحه ی سمت چپ، صفحه ی اول اپ هست که یک تصویر از لوگوی فلاتر در پس زمنیه باید داشته باشه و یک تصویر از پرنده "دَش" در جلوی اون. همچنین یک متن زیر این عکس اخیر و یک دکمه در زیر متن برای فشردن باید قرار داده بشه که پس از فشردن اون توسط کاربر، به صفحه ی دوم که صفحه ی سمت راست هست برود.</br></br>
+- صفحه ی سمت راست، صفحه ی بعدی است که پس از اینکه کاربر بر روی دکمه ی "به دَش زنگ بزن" تپ می کنه وارد میشه. یک پیام به کاربر نشون داده میشه که می تونه با فشردن کلمه ی باشه، اون رو ببنده. و در خود جعبه پیام هم یک سری متن به عنوان جا نگهدار وجود داره.
 
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-### **<p id="designing_section"><b>2.2 Designing</b></p>**
-In this part, the final design of the "Hi Flutter" application is presented:<br>
+### **<p id="designing_section"><b>2.2 طراحی کردن</b></p>**
+در این قسمت، طرح نهایی اپلیکیشن "های فلاتر" ارائه می گردد:<br>
 
-The total design at one glance is like the picture below. This design was done in the Adobe XD software.<br><br>
+طرح نهایی در یک نگاه به شرح تصویر زیر است. این طراحی در نرم افزار ادوبی اکس دی انجام شده است.<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Design - One Sight.png" width="100%" height="100%"><br>
 
-Each designed screen is coming:
+هر قسمت طراحی در ادامه می آید:
 
-- First application screen [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen.png" width="100%" height="100%">
+- صفحه ی اول اپلیکیشن [**صفحه ی خوش آمد گویی**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen.png" width="100%" height="100%">
 
-- Second application screen [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen.png" width="100%" height="100%">
+- صفحه ی دوم اپلیکیشن [**صفحه ی پیغام**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen.png" width="100%" height="100%">
 
-- First application screen landscape view [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen - Landscape.png" width="100%" height="100%">
+- صفحه ی اول اپلیکیشن در حالت افقی [**صفحه ی خوش آمد گویی**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen - Landscape.png" width="100%" height="100%">
 
-- Second application screen landscape view [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
+- صفحه ی دوم اپلیکیشن در حالت افقی [**صفحه ی پیغام**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
 
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-### **<p id="prototyping_section"><b>2.3 Prototyping</b></p>**
-In this part, I present the prototype or high-level "Hi Flutter" design.
+### **<p id="prototyping_section"><b>2.3 پروتو تایپینگ</b></p>**
+در این قسمت، من پروتو تایپ یا طراحی سطح پایین طرح "های فلاتر" را ارائه می کنم.
 
-As the functionality of this application is very simple, for its prototype, in the first application screen that is the welcome screen - whether in the portrait or landscape view - the dialog box will be shown as follows:
+همون طور که کاراییِ اپلیکیشن خیلی ساده هست، برای پروتو تایپ اون، در اولین صفحه اپلیکیشن که همون صفحه ی خوش آمد گویی هست - چه در حالت افقی و چه در حالت عمودی - پس از فشردن دکمه ی پایین برنامه یک پیغام به کاربر نمایش داده  می شود. این روند در تصاویر زیر نمایش داده شده است:
 
-- Prototype of first screen [**Welcome Screen In Portrait View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button.png" width="100%" height="100%">
+- پروتو تایپ صفحه ی اول [**صفحه ی خوش آمد گویی در حالت عمودی**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button.png" width="100%" height="100%">
 
-- Prototype of first screen [**Welcome Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button Landscape.png" width="100%" height="100%">
+- پروتو تایپ صفحه ی اول [**صفحه ی خوش آمد گویی در حالت افقی**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button Landscape.png" width="100%" height="100%">
 
-- Prototype of second screen [**Dialog Box Screen In Portrait View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box portrait.png" width="100%" height="100%">
+- پروتو تایپ صفحه ی دوم [**صفحه ی نمایش پیغام در حالت عمودی**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box portrait.png" width="100%" height="100%">
 
-- Prototype of second screen [**Dialog Box Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box landscape.png" width="100%" height="100%">
+- پروتو تایپ صفحه ی دوم [**صفحه ی نمایش پیغام در حالت افقی**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box landscape.png" width="100%" height="100%">
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-### **<p id="mockups_section"><b>2.4 Mockups</b></p>**
-In this part, I present the final results in terms of Mockups.<br><br>
+### **<p id="mockups_section"><b>2.4 ماکاپ ها</b></p>**
+در این قسمت، من طرح های نهایی رو در قالب ماکاپ ارائه می کنم.<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Mockups/Single Mockup - First Screen.png" width="100%" height="100%">
 
@@ -93,29 +96,29 @@ In this part, I present the final results in terms of Mockups.<br><br>
 
 https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e95f545a-39a5-4f3b-8422-c938c9ea8c9c
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-## **<p id="programming_part"><b>3. Programming Part</b></p>**
-In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+## **<p id="programming_part"><b>3. قسمت برنامه نویسی</b></p>**
+من در این قسمت، فرایند برنامه نویسی اتفاق افتاده برای اینکه "های فلاتر" به دنیا بیاد رو ارائه می کنم.<br>
+<a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-### **<p id="front_end"><b>3.1 Front-end</b></p>**
-In this part, I present what things are there in the front for user interaction.<br>
+### **<p id="front_end"><b>3.1 فرانت - اند</b></p>**
+در این قسمت، من چیز هایی که در جلو برای در تعامل بودن با کاربر هست رو ارائه می کنم.<br>
 
-- First Screen [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_First_Screen.png" width="100%" height="100%"><br><br>
+- صفحه ی اول [**صفحه ی خوش آمد گویی**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_First_Screen.png" width="100%" height="100%"><br><br>
 
-- Second Screen [**Dialog Box Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_second_Screen.png" width="100%" height="100%">
+- صفحه ی دوم [**صفحه ی پیغام**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_second_Screen.png" width="100%" height="100%">
 
-<br>As shown, the application is programmed as designed, with its pictures being displayed in the previous sections.
+<br>همان طور که نشان داده شده، اپلیکیشن به شکلی که طراحی شده بود و طرح های آن گذشت، برنامه نویسی شده است.
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ برگشت ↑]</a><br><br><br>
 
-### **<p id="back_end"><b>3.2 Back-end</b></p>**
-In this part, I present what things are there in the back for functionality to work.<br>
+### **<p id="back_end"><b>3.2 بک - اند</b></p>**
+در این قسمت، من چیز هایی که در پس زمینه وجود داره برای اینکه عملکرد برنامه رو بر عهده بگیره ارائه می کنم.<br>
 
-I will show what widgets are used in the background. The full details could be neglected because it makes reading this documentation boring.<br><br>
+من ویجت هایی که استفاده شده رو به طور کلی نشون میدم. ارائه ی تمامی جزئیات ممکنه خوندن این سند رو خسته کننده کنه، به خاطر همین از ارائه ی تمامی جزئیات اجتناب میشه.<br><br>
 
-- **Flutter Picture** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>As it is seen, the entire widgets are in a single "**Stack**" widget as this UI is somehow a complex one. And all of them wrapped around with a "**SingleChildScrollView**" widget for where it is needed it could be scrollable. Anyway, this Flutter picture logo is just an image widget that I designed previously in Ai.</p>
+- **تصویر لوگوی فلاتر** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>As it is seen, the entire widgets are in a single "**Stack**" widget as this UI is somehow a complex one. And all of them wrapped around with a "**SingleChildScrollView**" widget for where it is needed it could be scrollable. Anyway, this Flutter picture logo is just an image widget that I designed previously in Ai.</p>
 
 <br><br>
 
@@ -141,7 +144,7 @@ I will show what widgets are used in the background. The full details could be n
 
 - **Dialog Box Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>And in the below of the dialog box content, a button is used. After pressing, the dialog box will disappear and the first screen or welcome screen will show again.</p>
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ برگشت ↑]</a>
 
 <br>
 
@@ -167,4 +170,4 @@ https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/6
 
 https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/22fc8944-4509-406f-835f-ec647ce56bc5
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ برگشت ↑]</a>
