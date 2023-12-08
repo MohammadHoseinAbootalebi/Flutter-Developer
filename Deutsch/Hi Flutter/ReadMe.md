@@ -45,39 +45,39 @@ Wie man sieht, enthält die Anwendung zwei Hauptbildschirme:
 ### **<p id="designing_section"><b>2.2 Entwerfend</b></p>**
 In diesem Teil wird das endgültige Design der Anwendung „Hi Flutter“ vorgestellt:<br>
 
-The total design at one glance is like the picture below. This design was done in the Adobe XD software.[*]<br><br>
+Das Gesamtdesign sieht auf einen Blick wie im Bild unten aus. Dieses Design wurde in der Adobe XD-Software erstellt.<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Design - One Sight.png" width="100%" height="100%"><br>
 
-Each designed screen is coming:
+Jeder entworfene Bildschirm kommt:
 
-- First application screen [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen.png" width="100%" height="100%">
+- Erster Anwendungsbildschirm [**Willkommensbildschirm**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen.png" width="100%" height="100%">
 
-- Second application screen [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen.png" width="100%" height="100%">
+- Zweiter Anwendungsbildschirm [**Dialogbildschirm**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen.png" width="100%" height="100%">
 
-- First application screen landscape view [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen - Landscape.png" width="100%" height="100%">
+- Erster Anwendungsbildschirm im Querformat [**Willkommensbildschirm**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/First Screen - Landscape.png" width="100%" height="100%">
 
-- Second application screen landscape view [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
+- Second application screen landscape view [**Dialogbildschirm**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
 
 <a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
-### **<p id="prototyping_section"><b>2.3 Prototyping</b></p>**
-In this part, I present the prototype or high-level "Hi Flutter" design.
+### **<p id="prototyping_section"><b>2.3 Prototyp entwickeln</b></p>**
+In diesem Teil stelle ich den Prototyp oder das High-Level-Design „Hi Flutter“ vor.
 
-As the functionality of this application is very simple, for its prototype, in the first application screen that is the welcome screen - whether in the portrait or landscape view - the dialog box will be shown as follows:
+Da die Funktionalität dieser Anwendung für ihren Prototyp sehr einfach ist, wird im ersten Anwendungsbildschirm, dem Begrüßungsbildschirm – egal ob im Hoch- oder Querformat – das Dialogfeld wie folgt angezeigt:
 
-- Prototype of first screen [**Welcome Screen In Portrait View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button.png" width="100%" height="100%">
+- Prototyp des ersten Bildschirms [**Willkommensbildschirm im Hochformat**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button.png" width="100%" height="100%">
 
-- Prototype of first screen [**Welcome Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button Landscape.png" width="100%" height="100%">
+- Prototyp des ersten Bildschirms [**Willkommensbildschirm im Querformat**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/Call Dash CTA Button Landscape.png" width="100%" height="100%">
 
-- Prototype of second screen [**Dialog Box Screen In Portrait View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box portrait.png" width="100%" height="100%">
+- Prototyp eines zweiten Bildschirms [**Dialogfeldbildschirm im Hochformat**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box portrait.png" width="100%" height="100%">
 
-- Prototype of second screen [**Dialog Box Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box landscape.png" width="100%" height="100%">
+- Prototyp eines zweiten Bildschirms [**Dialogbox-Bildschirm im Querformat**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box landscape.png" width="100%" height="100%">
 
 <br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="mockups_section"><b>2.4 Mockups</b></p>**
-In this part, I present the final results in terms of Mockups.<br><br>
+In diesem Teil präsentiere ich die Endergebnisse in Form von Mockups.<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Mockups/Single Mockup - First Screen.png" width="100%" height="100%">
 
@@ -95,59 +95,59 @@ https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e
 
 <br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
-## **<p id="programming_part"><b>3. Programming Part</b></p>**
-In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
+## **<p id="programming_part"><b>3. Programmierteil</b></p>**
+In diesem Abschnitt stelle ich den Programmierprozess vor, der zur Entstehung des „Hi Flutter“ erforderlich ist.<br>
 <a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="front_end"><b>3.1 Front-end</b></p>**
-In this part, I present what things are there in the front for user interaction.<br>
+In diesem Teil stelle ich vor, welche Dinge es im Vordergrund für die Benutzerinteraktion gibt.<br>
 
-- First Screen [**Welcome Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_First_Screen.png" width="100%" height="100%"><br><br>
+- Erster Bildschirm [**Willkommensbildschirm**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_First_Screen.png" width="100%" height="100%"><br><br>
 
-- Second Screen [**Dialog Box Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_second_Screen.png" width="100%" height="100%">
+- Zweiter Bildschirm [**Dialogbox-Bildschirm**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Front_end_second_Screen.png" width="100%" height="100%">
 
-<br>As shown, the application is programmed as designed, with its pictures being displayed in the previous sections.
+<br>Wie gezeigt, ist die Anwendung wie geplant programmiert, wobei die Bilder in den vorherigen Abschnitten angezeigt werden.
 
 <br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="back_end"><b>3.2 Back-end</b></p>**
-In this part, I present what things are there in the back for functionality to work.<br>
+In diesem Teil stelle ich vor, welche Dinge sich im Hintergrund befinden, damit die Funktionalität funktioniert.<br>
 
-I will show what widgets are used in the background. The full details could be neglected because it makes reading this documentation boring.<br><br>
+Ich werde zeigen, welche Widgets im Hintergrund verwendet werden. Die vollständigen Details könnten vernachlässigt werden, da die Lektüre dieser Dokumentation dadurch langweilig wird.<br><br>
 
-- **Flutter Picture** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>As it is seen, the entire widgets are in a single "**Stack**" widget as this UI is somehow a complex one. And all of them wrapped around with a "**SingleChildScrollView**" widget for where it is needed it could be scrollable. Anyway, this Flutter picture logo is just an image widget that I designed previously in Ai.</p>
-
-<br><br>
-
-- **Dash Picture** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Dash Picture.png" width="100%" height="100%"><br><br><p>This is an image widget too like the previous one that is positioned in the Stack widget.</p>
+- **Flutter Bild** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>Wie man sieht, befinden sich die gesamten Widgets in einem einzigen „**Stack**“-Widget, da diese Benutzeroberfläche irgendwie komplex ist. Und alle sind mit einem „**SingleChildScrollView**“-Widget ausgestattet, damit es dort, wo es benötigt wird, scrollbar sein kann. Wie auch immer, dieses Flutter-Bildlogo ist nur ein Bild-Widget, das ich zuvor in Ai entworfen habe.</p>
 
 <br><br>
 
-- **Bellow Dash Image Text Box** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Start Big Journey Text.png" width="100%" height="100%"><br><br><p>This is just a text box containing the "Start your big journey" text.</p>
+- **Dash Bild** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Dash Picture.png" width="100%" height="100%"><br><br><p>Dies ist ebenfalls ein Bild-Widget wie das vorherige, das im Stapel-Widget positioniert ist.</p>
 
 <br><br>
 
-- **Call to Action Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Call Dash Button.png" width="100%" height="100%"><br><br><p>This is a "**Text Button**" widget that when it is pressed, it shows a dialog box or call "**showDialog**" method used commonly in Flutter.</p>
+- **Unterhalb des Strichbildes Textfeld** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Start Big Journey Text.png" width="100%" height="100%"><br><br><p>Dies ist nur ein Textfeld mit dem Text „Beginne deine große Reise“.</p>
 
 <br><br>
 
-- **Dialog Box Title** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/I recieved your Call.png" width="100%" height="100%"><br><br><p>After pressing the "**Call Dash**" button, a dialog box like this appears. It contains three different widgets. Its first one is a text box widget containing "**I received your Call!**" text.</p>
+- **CTA** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Call Dash Button.png" width="100%" height="100%"><br><br><p>Dies ist ein „**Text Button**“-Widget, das beim Drücken ein Dialogfeld anzeigt oder die häufig in Flutter verwendete Methode „**showDialog**“ aufruft.</p>
 
 <br><br>
 
-- **Dialog Box Content** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/dialog text content.png" width="100%" height="100%"><br><br><p>This is a text box too that is used as a placeholder to show some content in the dialog box.</p>
+- **Titel des Dialogfelds** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/I recieved your Call.png" width="100%" height="100%"><br><br><p>Nach dem Drücken der Schaltfläche „**Call Dash**“ erscheint ein Dialogfeld wie dieses. Es enthält drei verschiedene Widgets. Das erste ist ein Textfeld-Widget mit dem Text „**Ich habe Ihren Anruf erhalten!**“.</p>
 
 <br><br>
 
-- **Dialog Box Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>And in the below of the dialog box content, a button is used. After pressing, the dialog box will disappear and the first screen or welcome screen will show again.</p>
+- **Inhalt des Dialogfelds** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/dialog text content.png" width="100%" height="100%"><br><br><p>Dies ist ebenfalls ein Textfeld, das als Platzhalter verwendet wird, um Inhalte im Dialogfeld anzuzeigen.</p>
+
+<br><br>
+
+- **Schaltfläche „Dialogfeld“.** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>Und unten im Inhalt des Dialogfelds wird eine Schaltfläche verwendet. Nach dem Drücken verschwindet das Dialogfeld und der erste Bildschirm oder Begrüßungsbildschirm wird erneut angezeigt.</p>
 
 <br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 <br>
 
-### **<p id="review_functionality"><b>3.3 Review Functionality</b></p>**
+### **<p id="review_functionality"><b>3.3 Überprüfen Sie die Funktionalität</b></p>**
 
-To review the functionality of the application overall again, let's see the following video:<br><br>
+Um die Funktionalität der Anwendung insgesamt noch einmal zu überprüfen, schauen wir uns das folgende Video an:<br><br>
 
 <video width="100%" height="100%" controls>
   <source src="../../Assets/Hi Flutter/Presentations/Final Videos/Galaxy S Ultra - Landscape.mp4" type="video/mp4">
