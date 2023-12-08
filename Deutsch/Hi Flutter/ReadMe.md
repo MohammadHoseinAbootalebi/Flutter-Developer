@@ -1,51 +1,51 @@
 # <span style="color:orange"><b>Hi Flutter</b></span>
 
-This application is the simplest and the first application that each programmer or developer programs, when he/she enters the new programming language world. So, in this application, I said the flutter Hi ;)
+This application is the easiest and first application that every programmer or developer programs when he/she enters the world of new programming languages. So, in this application I said hello to Flutter ;)
 
-# <h2 id="Table_Of_Contents">**Table of Contents**</h2>
+# <h2 id="Table_Of_Contents">**Inhaltsverzeichnis**</h2>
 
-1. <a href="#application_properties">Application Properties</a>
-2. <a href="#designing_part">Designing Part</a>
+1. <a href="#application_properties">Anwendungseigenschaften</a>
+2. <a href="#designing_part">Designteil</a>
     1. <a href="#wireframing_section">Wireframing</a> 
-    2. <a href="#designing_section">Designing</a>
-    3. <a href="#prototyping_section">Prototyping</a>
+    2. <a href="#designing_section">Entwerfend</a>
+    3. <a href="#prototyping_section">Prototyp entwickeln</a>
     4. <a href="#mockups_section">Mockups</a>
-3. <a href="#programming_part">Programming Part</a>
+3. <a href="#programming_part">Programmierteil</a>
     1. <a href="#front_end">Front-end</a>
     2. <a href="#back_end">Back-end</a>
-    3. <a href="#review_functionality">Review Functionality</a>
+    3. <a href="#review_functionality">Überprüfen Sie die Funktionalität</a>
 
-## **<p id="application_properties"><b>1. Application Properties</b></p>**
-Application properties are as follows: <br>
+## **<p id="application_properties"><b>1. Anwendungseigenschaften</b></p>**
+Die Anwendungseigenschaften sind wie folgt: <br>
 
 - Name: **Hi Flutter**
-- Time to Complete: **3 hours**
-- Date of Finishing Application: **23rd November 2023**
-- Level: **Bignner**
+- Zeit zum Abschluss: **3 Stunden**
+- Datum des Abschlusses des Antrags: **23rd November 2023**
+- Ebene: **Anfänger**
 
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
-## **<p id="designing_part"><b>2. Designing Part</b></p>**
-In this section, I present the design process that takes for the "Hi Flutter" to be born. <br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+## **<p id="designing_part"><b>2. Designteil</b></p>**
+In diesem Abschnitt stelle ich den Designprozess vor, der zur Entstehung des „Hi Flutter“ erforderlich ist. <br>
+<a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="wireframing_section"><b>2.1 Wireframing</b></p>**
-In this part, I present the wireframe or low-level "Hi Flutter" design.<br>
+In diesem Teil stelle ich das Wireframe- oder Low-Level-Design „Hi Flutter“ vor.<br>
 
-In the following image, the base wireframe of the application is presented:<br><br>
+In der folgenden Abbildung wird das Basis-Drahtmodell der Anwendung dargestellt:<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Wireframing.png" width="100%" height="100%"><br>
 
-As it is seen, the application contains two main screens:
-- The left screen is the first screen that contains an image of the flutter logo in the background and an image of the dash in the front. There is also a text box at the bottom and a CTA button below the text box. The button is designed to go to the right screen when the user taps it.</br></br>
-- The right screen is the next screen that appears when the user taps the “Call Dash” button. A dialog box is shown with an “OK” button to close it and a text box to present some text in the dialog.
+Wie man sieht, enthält die Anwendung zwei Hauptbildschirme:
+- Der linke Bildschirm ist der erste Bildschirm, der im Hintergrund ein Bild des Flatterlogos und im Vordergrund ein Bild des Dash enthält. Unten befindet sich außerdem ein Textfeld und unterhalb des Textfelds eine CTA-Schaltfläche. Die Schaltfläche ist so konzipiert, dass sie zum rechten Bildschirm wechselt, wenn der Benutzer darauf tippt.</br></br>
+- Der rechte Bildschirm ist der nächste Bildschirm, der erscheint, wenn der Benutzer auf die Schaltfläche „Call Dash“ tippt. Es wird ein Dialogfeld mit einer Schaltfläche „OK“ zum Schließen und einem Textfeld zum Anzeigen von Text im Dialogfeld angezeigt.
 
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
-### **<p id="designing_section"><b>2.2 Designing</b></p>**
-In this part, the final design of the "Hi Flutter" application is presented:<br>
+### **<p id="designing_section"><b>2.2 Entwerfend</b></p>**
+In diesem Teil wird das endgültige Design der Anwendung „Hi Flutter“ vorgestellt:<br>
 
-The total design at one glance is like the picture below. This design was done in the Adobe XD software.<br><br>
+The total design at one glance is like the picture below. This design was done in the Adobe XD software.[*]<br><br>
 
 <img src="../../Assets/Hi Flutter/Presentations/Design - One Sight.png" width="100%" height="100%"><br>
 
@@ -59,7 +59,7 @@ Each designed screen is coming:
 
 - Second application screen landscape view [**Dialog Screen**] ↓ :<br><br><img src="../../Assets/Hi Flutter/Presentations/Second Screen - Landscape.png" width="100%" height="100%">
 
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="prototyping_section"><b>2.3 Prototyping</b></p>**
 In this part, I present the prototype or high-level "Hi Flutter" design.
@@ -74,7 +74,7 @@ As the functionality of this application is very simple, for its prototype, in t
 
 - Prototype of second screen [**Dialog Box Screen In Landscape View**] ↓ : <br><br><img src="../../Assets/Hi Flutter/Presentations/OK Button in the dialog box landscape.png" width="100%" height="100%">
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="mockups_section"><b>2.4 Mockups</b></p>**
 In this part, I present the final results in terms of Mockups.<br><br>
@@ -93,11 +93,11 @@ In this part, I present the final results in terms of Mockups.<br><br>
 
 https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e95f545a-39a5-4f3b-8422-c938c9ea8c9c
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ## **<p id="programming_part"><b>3. Programming Part</b></p>**
 In this section, I present the programming process that takes for the "Hi Flutter" to be born.<br>
-<a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="front_end"><b>3.1 Front-end</b></p>**
 In this part, I present what things are there in the front for user interaction.<br>
@@ -108,7 +108,7 @@ In this part, I present what things are there in the front for user interaction.
 
 <br>As shown, the application is programmed as designed, with its pictures being displayed in the previous sections.
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 ### **<p id="back_end"><b>3.2 Back-end</b></p>**
 In this part, I present what things are there in the back for functionality to work.<br>
@@ -141,7 +141,7 @@ I will show what widgets are used in the background. The full details could be n
 
 - **Dialog Box Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>And in the below of the dialog box content, a button is used. After pressing, the dialog box will disappear and the first screen or welcome screen will show again.</p>
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
 
 <br>
 
@@ -167,4 +167,4 @@ https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/6
 
 https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/22fc8944-4509-406f-835f-ec647ce56bc5
 
-<br><a href="#Table_Of_Contents">[↑ Back ↑]</a>
+<br><a href="#Table_Of_Contents">[↑ Zurück ↑]</a>
