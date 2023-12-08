@@ -1,15 +1,15 @@
-# 📑 <span>**Table of Projects**</span> 📑
+# 📑 <span>**プロジェクト一覧**</span> 📑
 
-In the following, the list of all my created Flutter projects is coming:
+以下に、私が作成したすべてのFlutterプロジェクトのリストを掲載する：
 
 <table style="width: 75%">
     <!-- Hi Flutter Application -->
     <tr>
-        <td>App Name: <b>Hi Flutter</b></td>
-        <td rowspan="7"><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/English/Hi%20Flutter"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></a></td>
+        <td>アプリ名: <b>Hi Flutter</b></td>
+        <td rowspan="7"><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/%E6%97%A5%E6%9C%AC/Hi%20Flutter"><img src="../Assets/Hi Flutter/Logo.png" alt="Hi Flutter" height="100%" width="100%"></a></td>
     </tr>
     <tr>
-        <td>Index: <b>1</b></td>
+        <td>インデックス: <b>1</b></td>
     </tr>
     <tr>
         <td>Level: <b>Beginner</b></td>
@@ -24,7 +24,7 @@ In the following, the list of all my created Flutter projects is coming:
         <td>Used Tools: <img src="../Assets/Softwares Logos/Adobe_XD_Logo.png" alt="Adobe XD Logo" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Adobe_Illustrator_Logo.png" alt="Illustrator" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Adobe_Photoshop_Logo.png" alt="Photoshop" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Dart_Logo.png" alt="Dart Logo" height="3%" width="3%"> <img src="../Assets/Softwares Logos/Flutter_Logo.png" alt="Flutter Logo" height="3%" width="3%"></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/English/Hi%20Flutter"><b>See More</b></a></td>
+        <td><a href="https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/tree/main/%E6%97%A5%E6%9C%AC/Hi%20Flutter"><b>See More</b></a></td>
     </tr>
     <td></br></td>
     <!-- Next Application, the setups should change -->
