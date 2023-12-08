@@ -118,39 +118,39 @@ https://github.com/MohammadHoseinAbootalebi/Flutter-Developer/assets/111989636/e
 
 من ویجت هایی که استفاده شده رو به طور کلی نشون میدم. ارائه ی تمامی جزئیات ممکنه خوندن این سند رو خسته کننده کنه، به خاطر همین از ارائه ی تمامی جزئیات اجتناب میشه.<br><br>
 
-- **تصویر لوگوی فلاتر** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>As it is seen, the entire widgets are in a single "**Stack**" widget as this UI is somehow a complex one. And all of them wrapped around with a "**SingleChildScrollView**" widget for where it is needed it could be scrollable. Anyway, this Flutter picture logo is just an image widget that I designed previously in Ai.</p>
+- **تصویر لوگوی فلاتر** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Flutter Picture.png" width="100%" height="100%"><br><br><p>همان طور که دیده می شود، کل ویجت های استفاده شده در یک "**پشته**" قرار دارند که این به دلیل پیچیده بودن طرح کاربری این اپلیکیشن ساده است. و همچنین همه ی آنها در یک ویجت "سینگل چایلد سکرول ویو" قرار دارد که در صورت نیاز کاربر بتواند با اسکرول کردن از نرم افزار استفاده کند. به هر حال، تصویر لوگوی فلاتر به عنوان یه ویجت تصویر که قبلاً در ادوبی ایلستریتور طراحی شده در اینجا به عنوان تصویر قرار گرفته است.</p>
 
 <br><br>
 
-- **Dash Picture** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Dash Picture.png" width="100%" height="100%"><br><br><p>This is an image widget too like the previous one that is positioned in the Stack widget.</p>
+- **تصویر دَش** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Dash Picture.png" width="100%" height="100%"><br><br><p>این تصویر هم یک ویجت تصویر هست که مشابه تصویر قبلی در ویجت پشته جا دهی شده است.</p>
 
 <br><br>
 
-- **Bellow Dash Image Text Box** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Start Big Journey Text.png" width="100%" height="100%"><br><br><p>This is just a text box containing the "Start your big journey" text.</p>
+- **متن زیر تصویر دَش** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Start Big Journey Text.png" width="100%" height="100%"><br><br><p>این جعبه متن تنها یک ویجت متن هست که حاوی متن "سفر بزرگ خودتو شروع کن" هست.</p>
 
 <br><br>
 
-- **Call to Action Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Call Dash Button.png" width="100%" height="100%"><br><br><p>This is a "**Text Button**" widget that when it is pressed, it shows a dialog box or call "**showDialog**" method used commonly in Flutter.</p>
+- **CTA** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/Call Dash Button.png" width="100%" height="100%"><br><br><p>این مورد، یک دکمه ی "تکست باتتن" هست که پس از فشرده شدن، متد "شو دیالاگ" که به طور معمول در فلاتر استفاده می شود، فراخوانی می شود.</p>
 
 <br><br>
 
-- **Dialog Box Title** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/I recieved your Call.png" width="100%" height="100%"><br><br><p>After pressing the "**Call Dash**" button, a dialog box like this appears. It contains three different widgets. Its first one is a text box widget containing "**I received your Call!**" text.</p>
+- **سربرگ پیغام** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/I recieved your Call.png" width="100%" height="100%"><br><br><p>در بالای پیغام - که پس از فشرده شدن دکمه ی صفحه ی قبلی توسط کاربر نمایش داده می شود - یک متن به عنوان سربرگ تحت ویجت تکست وجود دارد.</p>
 
 <br><br>
 
-- **Dialog Box Content** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/dialog text content.png" width="100%" height="100%"><br><br><p>This is a text box too that is used as a placeholder to show some content in the dialog box.</p>
+- **بدنه ی پیغام** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/dialog text content.png" width="100%" height="100%"><br><br><p>این هم یک ویجت تکست هست که به عنوان جا نگهدار یک متن جذاب و فان را داراست.</p>
 
 <br><br>
 
-- **Dialog Box Button** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>And in the below of the dialog box content, a button is used. After pressing, the dialog box will disappear and the first screen or welcome screen will show again.</p>
+- **دکمه ی پیغام** <br><br><img src="../../Assets/Hi Flutter/Presentations/Programming Parts/OK button.png" width="100%" height="100%"><br><br><p>این مورد ی تکست باتتن ویجت است که پس از فشرده شدن توسط کاربر، پیغام بسته می شود و برنامه به صفحه ی اول یا صفحه ی خوش آمد گویی بر می گردد.</p>
 
 <br><a href="#Table_Of_Contents">[↑ برگشت ↑]</a>
 
 <br>
 
-### **<p id="review_functionality"><b>3.3 Review Functionality</b></p>**
+### **<p id="review_functionality"><b>3.3 مرور عملکرد</b></p>**
 
-To review the functionality of the application overall again, let's see the following video:<br><br>
+برای مرور عملکرد اپلیکیشن به طور کلی، فیلم های پایین رو ببین:<br><br>
 
 <video width="100%" height="100%" controls>
   <source src="../../Assets/Hi Flutter/Presentations/Final Videos/Galaxy S Ultra - Landscape.mp4" type="video/mp4">
